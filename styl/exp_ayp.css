@@ -1,0 +1,80 @@
+
+
+table, th, td {
+    padding: 20px;
+    border-collapse: collapse;
+    border: 3px solid;
+}
+
+tr {
+    border-bottom: 10px;
+    border-color: black;
+}
+
+dt {
+    color: black;
+    padding-top: 20px;
+}
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Clase para la barra de navegación */
+.topnav {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.topnav li {
+    display: inline-block;
+    text-decoration: none;
+}
+
+/* Clase para los link de la barra de navegación */
+.topnav a {
+    display: block;
+    color: rgb(4, 99, 94);
+    text-align: center;
+    padding: 10px 40px 10px;
+    margin-top: 60px;
+    text-decoration: none;
+}
+
+/* Clase para que los links cambien de color al pasar el mouse por encima */
+.topnav a:hover, .topnav a.split:hover {
+    background-color: rgb(4, 99, 94);
+    color: white;
+}
+ /* Columnas para la página exp_ayp */
+ .column50blue {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    height: 100vh;
+    padding: 60px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.column50green {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;height: 100vh;
+    padding: 60px;
+    background-color: darkcyan;
+    color: white;
+    font-size: large;
+}
