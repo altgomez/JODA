@@ -70,47 +70,7 @@
         width: 45%;
     }
 
-    /* Columnas para la pagina conoceme */
-    /* .column60 {
-        display: inline-block;
-        vertical-align: top;
-        width: 60%;
-        background-color: rgb(135, 222, 208);
-        padding: 60px;
-        height: 100vh;
-    } */
 
-    /* .column40 {
-        display: inline-block;
-        vertical-align: top;
-        width: 40%;
-        height: 100vh;
-        background-color: darkcyan;
-        color: white;
-        height: 100vh;
-        padding: 60px;
-    } */
-
-    /* Columnas para la página exp_ayp */
-    /* .column50blue {
-        display: inline-block;
-        vertical-align: top;
-        width: 50%;
-        height: 100vh;
-        padding: 60px;
-        background-color: cornflowerblue;
-        color: white;
-    } */
-
-    /* .column50green {
-        display: inline-block;
-        vertical-align: top;
-        width: 50%;height: 100vh;
-        padding: 60px;
-        background-color: darkcyan;
-        color: white;
-        font-size: large;
-    } */
     p {
         color: rgb(4, 99, 94);
         font-size: 50px;
