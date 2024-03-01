@@ -45,7 +45,7 @@
 
     /* Clase para el background de la página index */
     .index_back {
-        background: url(/IMAG/sl_030720_28740_16.jpg) fixed;
+        background: url(../IMAG/sl_030720_28740_16.jpg) fixed;
         background-position: center;
         background-size: cover;        
     }
